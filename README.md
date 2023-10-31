@@ -19,3 +19,7 @@ Key features of this content management tool include:
 8. Content Analytics: Some content management tools provide built-in analytics to track the performance of articles, such as page views, engagement, and user interaction.
 
 In summary, a content management tool simplifies the process of creating, organizing, and publishing articles. It provides users with the capability to include titles, content, images, and videos within their articles, enhancing the overall quality and appeal of the content. Whether for bloggers, digital publishers, or businesses, this tool offers a user-friendly, organized, and efficient way to manage online content.
+
+![content management tool (Screenshot)](https://github.com/bhoyarkalyani12/Bharat-Intern-completed-Tasks-/assets/131539350/b841a7df-9c08-4a0a-9a69-556c72bf84c9)
+
+
